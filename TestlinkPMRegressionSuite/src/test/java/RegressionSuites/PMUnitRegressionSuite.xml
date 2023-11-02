@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="PMRegressionSuite">
+    <listeners>
+        <listener class-name="retryMechanism.ITestListner"></listener>
+    </listeners>
+
+
+      <test name="PM Regression Suite 1-22">
+         <classes>
+             <class name="unitregressionexec.Demotest"></class>
+         </classes>
+     </test>
+
+</suite>

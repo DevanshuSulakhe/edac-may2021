@@ -1,0 +1,8 @@
+{
+	"jsonrpc": "2.0",
+	"params": {
+		"db": "qa",
+		"login": "admin",
+		"password": "Admin@123"
+	}
+}

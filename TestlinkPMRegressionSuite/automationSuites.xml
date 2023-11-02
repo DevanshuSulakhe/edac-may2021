@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<suite-files>
+		<!--	 <suite-file path="src/test/java/RegressionSuites/PMSITRegressionSuite.xml"></suite-file>
+				 	<suite-file path="src/test/java/RegressionSuites/MultipleServicesforEP1.xml"></suite-file>-->
+    <!--     <suite-file path="src/test/java/RegressionSuites/MultipleServicesforEP2.xml"></suite-file>
+              <suite-file path="src/test/java/RegressionSuites/MultipleServicesforEP3.xml"></suite-file>
+	<suite-file path="src/test/java/RegressionSuites/MultipleServicesforEP4.xml"></suite-file>
+	<suite-file path="src/test/java/RegressionSuites/MultipleServicesforEP5.xml"></suite-file>
+			<suite-file path="src/test/java/RegressionSuites/paymentrelatedTestCases.xml"></suite-file> -->
+	<!--	<suite-file path="src/test/java/RegressionSuites/PmReplatDefects.xml"></suite-file>  -->
+		<suite-file path="src/test/java/RegressionSuites/PMUnitRegressionSuite.xml"></suite-file>
+	<!--	<suite-file path="src/test/java/RegressionSuites/QTModuleTest.xml"></suite-file>  -->
+
+        <!--<suite-file path="src/test/java/RegressionSuites/B2BAutoAllocation.xml"></suite-file>
+		<suite-file path="src/test/java/RegressionSuites/B2CAutoAllocation.xml"></suite-file>
+			<suite-file path="src/test/java/RegressionSuites/B2CArchiveAutoAllocation.xml"></suite-file>
+		   <suite-file path="src/test/java/RegressionSuites/B2BArchiveAutoAllocation.xml"></suite-file> -->
+        </suite-files>
+    </suite>

@@ -1,0 +1,61 @@
+{
+  "jsonrpc": "2.0",
+  "params": {
+    "AsnNumber": "ANKMKW-1",
+    "AssignmentID": 506794,
+    "ServiceMasterID": 3,
+    "ECServiceID": 2,
+    "ClientDeadline": "2022-12-26 20:00:00.0",
+    "PriorityID": 11,
+    "SALevel1": 5,
+    "SALevel2": 1167,
+    "SALevel3": 1275,
+    "Purpose": "",
+    "EnglishType": "Yes, please format as per Journal Guidelines",
+    "OutputFormat": "1",
+    "B2BB2C": "GlobalB2C",
+    "Formatting": "no",
+    "JournalName": "Minerva Anestesiologica",
+    "JournalUrl": "www.testAutomation.com",
+    "IsFormattingGuidelinesAttached": false,
+    "TypeOfArticle": 94,
+    "FlEditorPreference": 3,
+    "WebsiteID": "3",
+    "CoverLetter": "0",
+    "IsSpecialAssignment": false,
+    "Brand": "Enago",
+    "IsTrialAssignment": false,
+    "IsQCSelected": false,
+    "ICCode": "GlobalB2C",
+    "EoEPreference": "None",
+    "MrcRequired": false,
+    "COERequired": false,
+    "IsAfterSales": 3,
+    "IsMIAssignment": false,
+    "IsRSAssignment": false,
+    "ServerLocation": "SG",
+    "EditorASNNumber": "ANKMKW-1",
+    "OriginalFiles": [
+      {
+        "AssignmentID": 506794,
+        "FileName": "1.docx",
+        "FileUrl": "https://uat11services.enago.com//AWSS3_PushAPI/api/AmazonS3/AmazonS3FileDownload?f=Applications/Crimson_uat11/WCFService/CrimsonDocuments/Crimson/InquiryEditingFile/ea475dc9-bb3f-4252-9caf-f2b77349b193.docx",
+        "FileTypeId": null,
+        "OutputFormat": "1",
+        "IsMainFile": "1",
+        "CSCalculatedUnitCount": 1
+      }
+    ],
+    "CSInstructions": [
+      {
+        "AssignmentID": 506794,
+        "ClientComment": "",
+        "ClientInstructionsIDS": "75",
+        "ECInstructionsIds": "75",
+        "ECComment": "1",
+        "EditorInstructionsIds": "75",
+        "EditorComment": "1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "jsonrpc": "2.0",
+  "params": {
+    "db": "qa",
+    "login": "cspm@crimsoni.com",
+    "password": "edfadscasSA#123e2dsdcdsds"
+  }
+}
